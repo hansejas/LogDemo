@@ -1,0 +1,11 @@
+C:\Acurenz\LogDemo\LogDemo\LogDemoServices\bin\Debug\LogDemoServices.dll
+C:\Acurenz\LogDemo\LogDemo\LogDemoServices\bin\Debug\LogDemoServices.pdb
+C:\Acurenz\LogDemo\LogDemo\LogDemoServices\bin\Debug\Acurenz.Logging.dll
+C:\Acurenz\LogDemo\LogDemo\LogDemoServices\bin\Debug\LogDemoRepository.dll
+C:\Acurenz\LogDemo\LogDemo\LogDemoServices\bin\Debug\NLog.dll
+C:\Acurenz\LogDemo\LogDemo\LogDemoServices\bin\Debug\Acurenz.Logging.pdb
+C:\Acurenz\LogDemo\LogDemo\LogDemoServices\bin\Debug\LogDemoRepository.pdb
+C:\Acurenz\LogDemo\LogDemo\LogDemoServices\bin\Debug\NLog.xml
+C:\Acurenz\LogDemo\LogDemo\LogDemoServices\obj\Debug\LogDemoServices.csprojResolveAssemblyReference.cache
+C:\Acurenz\LogDemo\LogDemo\LogDemoServices\obj\Debug\LogDemoServices.dll
+C:\Acurenz\LogDemo\LogDemo\LogDemoServices\obj\Debug\LogDemoServices.pdb
