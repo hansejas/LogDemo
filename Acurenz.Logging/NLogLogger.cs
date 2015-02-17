@@ -21,7 +21,7 @@ namespace Acurenz.Logging
         /// </summary>
         public NLogLogger()
         {
-            log = NLog.LogManager.GetLogger("NlogLog");
+            log = NLog.LogManager.GetLogger("AcurenzWebLog");
         }
 
         #region ILogger Members

@@ -4,3 +4,4 @@ C:\Acurenz\LogDemo\LogDemo\Acurenz.Logging\bin\Debug\NLog.dll
 C:\Acurenz\LogDemo\LogDemo\Acurenz.Logging\bin\Debug\NLog.xml
 C:\Acurenz\LogDemo\LogDemo\Acurenz.Logging\obj\Debug\Acurenz.Logging.dll
 C:\Acurenz\LogDemo\LogDemo\Acurenz.Logging\obj\Debug\Acurenz.Logging.pdb
+C:\Acurenz\LogDemo\LogDemo\Acurenz.Logging\obj\Debug\Acurenz.Logging.csprojResolveAssemblyReference.cache
